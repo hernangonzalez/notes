@@ -1,5 +1,5 @@
 +++
-title = "RUST 🦀"
+title = "Rust 🦀"
 +++
 
 ```rust

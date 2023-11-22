@@ -1,5 +1,5 @@
 +++
-title = "Static Sites"
+title = "Static Sites 🕸️"
 +++
 
 ## Zola
