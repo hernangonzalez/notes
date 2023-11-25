@@ -22,7 +22,8 @@ fn main() {
 * Find templates at GitHub to use with [cargo generate](https://github.com/topics/cargo-generate).
 
 ## Crates
-* [itertools](https://docs.rs/itertools/latest/itertools/): Iterator extensions.
+* [Itertools](https://lib.rs/crates/itertools): Iterator extensions.
+* [Color Eyre](https://lib.rs/crates/color-eyre): colored error handling.
 * [Candle](https://github.com/huggingface/candle): Machine Learning.
 
 ## Examples
