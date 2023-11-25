@@ -27,7 +27,3 @@ fn main() {
 
 ## Examples
 * [Axum REST Service](https://github.com/AleksandrNi/axum-rest-service).
-
-## GitOps
-* [Rust Dockerfile Boilerplate](https://peterprototypes.com/blog/rust-dockerfile-boilerplate/): building slim Docker containers for Rust.
-
