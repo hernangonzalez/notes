@@ -1,5 +1,6 @@
 +++
 title = "Hernan's Notes"
+template = "cards.html"
 +++
 
 ## Welcome
