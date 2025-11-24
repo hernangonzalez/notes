@@ -34,7 +34,7 @@ mathjax = false
 mathjax_dollar_inline_enable = false
 
 menu = [
-    { name = "/home", url = "/", weight = 1 },
+    { name = "/notes", url = "/", weight = 1 },
 ]
 
 socials = [
